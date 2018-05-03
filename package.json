@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing-afternoon",
+  "version": "1.0.0",
+  "description": "<img src=\"https://devmounta.in/img/logowhiteblue.png\" width=\"250\" align=\"right\">",
+  "main": "cart.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiraJones/unit-testing-afternoon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiraJones/unit-testing-afternoon/issues"
+  },
+  "homepage": "https://github.com/MiraJones/unit-testing-afternoon#readme",
+  "dependencies": {
+    "jest": "^22.4.3"
+  }
+}
